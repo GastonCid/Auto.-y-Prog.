@@ -6,7 +6,7 @@
   
     "Status": "Pendiente",
   
-    "Articles": [
+    "Articles": 
   
       {
   
@@ -16,6 +16,6 @@
   
         "Dangerous": false
   
-      },
+      }
   
       }
